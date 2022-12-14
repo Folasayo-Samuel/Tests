@@ -1,0 +1,12 @@
+/home/saint/Desktop/Tests/csharp/recordsure.interview/bin/Debug/net6.0/recordsure.interview.deps.json
+/home/saint/Desktop/Tests/csharp/recordsure.interview/bin/Debug/net6.0/recordsure.interview.dll
+/home/saint/Desktop/Tests/csharp/recordsure.interview/bin/Debug/net6.0/recordsure.interview.pdb
+/home/saint/Desktop/Tests/csharp/recordsure.interview/obj/Debug/net6.0/recordsure.interview.csproj.AssemblyReference.cache
+/home/saint/Desktop/Tests/csharp/recordsure.interview/obj/Debug/net6.0/recordsure.interview.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/Tests/csharp/recordsure.interview/obj/Debug/net6.0/recordsure.interview.AssemblyInfoInputs.cache
+/home/saint/Desktop/Tests/csharp/recordsure.interview/obj/Debug/net6.0/recordsure.interview.AssemblyInfo.cs
+/home/saint/Desktop/Tests/csharp/recordsure.interview/obj/Debug/net6.0/recordsure.interview.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/Tests/csharp/recordsure.interview/obj/Debug/net6.0/recordsure.interview.dll
+/home/saint/Desktop/Tests/csharp/recordsure.interview/obj/Debug/net6.0/refint/recordsure.interview.dll
+/home/saint/Desktop/Tests/csharp/recordsure.interview/obj/Debug/net6.0/recordsure.interview.pdb
+/home/saint/Desktop/Tests/csharp/recordsure.interview/obj/Debug/net6.0/ref/recordsure.interview.dll
