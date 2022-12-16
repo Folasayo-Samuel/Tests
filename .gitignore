@@ -9,3 +9,4 @@ bin
 /server-20221214-231322.log
 ./server-20221214-231322.log
 .vscode
+.gitignore
